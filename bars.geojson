@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fàbrica Moritz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1634369,
+          41.3826668
+        ]
+      }
+    }
+  ]
+}
